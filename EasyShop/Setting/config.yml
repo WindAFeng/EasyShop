@@ -1,0 +1,11 @@
+# TinyDB链接信息
+# TinyDB link information
+Tiny: {
+  path: "Database"
+}
+# 最大商品实例数
+# Maximum number of commodity instances
+shop_good: "9999"
+# 商店名称
+# shop name
+shop_name: ""
