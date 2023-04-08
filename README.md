@@ -5,7 +5,7 @@
 
 ## 0. 使用
 
-克隆本仓库到你项目文件夹下,在EasyShop文件夹下的EasyShop文件夹中添加Database文件夹作为数据库文件夹
+克隆本仓库到你项目文件夹下,在EasyShop文件夹下的EasyShop文件夹中添加Database文件夹作为数据库文件夹,并在Setting文件夹下修改配置文件
 
 在文件使用
 
